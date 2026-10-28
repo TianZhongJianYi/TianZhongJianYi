@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on embedded development using stm32 series chips!
+- 🌱 I’m currently learning C# to develop a PC client!
+- 
